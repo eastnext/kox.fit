@@ -21,7 +21,7 @@ img {
     max-width: 125px;
 }
     
-.one{
+.links{
 	 text-align: center;
     margin-top: 20px;
     padding:10px;
@@ -29,7 +29,6 @@ img {
     border-width: 2px;
     width: 410px;
     max-width: 70vw;
-	background:#FFFFFF24;
     margin-left: auto;
     margin-right: auto;
     border-radius: 30px;
@@ -47,7 +46,7 @@ img {
 	vertical-align:middle;
 }
 
-.links {
+.one {
     text-align: right;
 	vertical-align:middle;
 	font-weight: bold;
