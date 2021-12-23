@@ -2,7 +2,7 @@ body {
     background: rgb(98, 36, 241);
     background: linear-gradient(151deg, #6224f1 19%, #67e1d6 100%);
     color: #fff;
-    font-family: 'Open Sans', sans-serif;
+    font-family:'Open Sans', sans-serif;
     font-size: 15px;
     letter-spacing: 2px;
     margin-bottom: 20vh;
@@ -21,37 +21,47 @@ img {
     max-width: 125px;
 }
     
-.wa {
-    display: block;
-	padding: 5px;
-	text-align: left;
-    margin-left: 600px;
-    margin-right: auto;
+.one{
+	 text-align: center;
     margin-top: 20px;
+    padding:10px;
+    border: 1px solid white;
+    border-width: 2px;
+    width: 410px;
+    max-width: 70vw;
+	background:#FFFFFF24;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 30px;
+    text-decoration: none;
+}
+.wa {
+	text-align: left;
+	padding: 0px;
+    margin-left:0px;
+    margin-right: 10px;
+    margin-top: 0px;
 	margin-bottom: 0px;
     height: auto;
     max-width: 55px;
+	vertical-align:middle;
 }
-.six{
-	margin-bottom: -255px;
-}
+
 .links {
     text-align: right;
-    margin-top: 20px;
-    padding: 20px;
-    border: 1px solid white;
-    border-width: 2px;
-    width: 310px;
-    max-width: 70vw;
-    display: block;
-	background: #00000000;
+	vertical-align:middle;
+	font-weight: bold;
+    margin-top: 0px;
+    padding: 0px;
+    border-width: 0px;
     margin-left: auto;
     margin-right: auto;
-    border-radius: 40px;
-    text-decoration: none;
+    border-radius: 0px;
+    text-decoration:none;
 }
 .links2 {
     text-align: center;
+	font-weight: bold;
     margin-top: 20px;
     padding: 20px;
     border: 1px solid white;
@@ -85,6 +95,7 @@ a.profile:hover{
 .motto{
     padding: 7 30 30 30px;
     font-weight: normal;
+	font-size: 15px;
 }
 
 .header{
