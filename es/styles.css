@@ -95,12 +95,14 @@ a.profile:hover{
 .name{
     padding: 30 30 7 30px;
 	font-size: 35px;
+	letter-spacing: 0px;
 }
 
 .motto{
     padding: 10 30 10 30px;
     font-weight: normal;
 	font-size: 13px;
+	letter-spacing: 1px;
 }
 
 .header{
