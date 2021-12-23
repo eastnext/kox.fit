@@ -22,9 +22,13 @@ img {
 }
     
 .links{
-	 text-align: center;
+	font-size: 17px;
+	letter-spacing: 0.5px;
+	font-weight: bold;
+	text-align: center;
     margin-top: 20px;
-    padding:10px;
+    padding-top:15px;
+	padding-bottom:15px;
     border: 1px solid white;
     border-width: 2px;
     width: 410px;
@@ -33,9 +37,11 @@ img {
     margin-right: auto;
     border-radius: 30px;
     text-decoration: none;
+	display: block;
+	vertical-align:middle;
 }
 .wa {
-	text-align: left;
+	text-align: center;
 	padding: 0px;
     margin-left:0px;
     margin-right: 10px;
