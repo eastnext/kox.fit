@@ -18,12 +18,42 @@ img {
     margin-right: auto;
     margin-top: 10%;
     height: auto;
-    max-width: 100px;
+    max-width: 125px;
 }
     
+.wa {
+    display: block;
+	padding: 5px;
+	text-align: left;
+    margin-left: 39%;
+    margin-right: auto;
+    margin-top: 20px;
+	margin-bottom: 0px;
+    height: auto;
+    max-width: 55px;
+}
+.six{
+	margin-bottom: -255px;
+}
+.links {
+    text-align: right;
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid white;
+    border-width: 2px;
+    width: 310px;
+    max-width: 70vw;
+    display: block;
+	background: #00000000;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 40px;
+    text-decoration: none;
+}
+
 .profile {
     text-align: center;
-    font-size: 15px;
+    font-size: 5px;
     letter-spacing: 2px;   
     margin: 0;
 }
@@ -34,6 +64,7 @@ a.profile:hover{
 
 .name{
     padding: 30 30 7 30px;
+	font-size: 35px;
 }
 
 .motto{
@@ -52,20 +83,8 @@ a.profile:hover{
     font-size: 105%;
 }
 
-.links {
-    text-align: center;
-    margin-top: 20px;
-    padding: 20px;
-    border: 1px solid white;
-    border-width: 2px;
-    width: 290px;
-    max-width: 60vw;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 40px;
-    text-decoration: none;
-}
+
+
 
 a {
     color: white;
