@@ -25,7 +25,7 @@ img {
     display: block;
 	padding: 5px;
 	text-align: left;
-    margin-left: 39%;
+    margin-left: 600px;
     margin-right: auto;
     margin-top: 20px;
 	margin-bottom: 0px;
@@ -37,6 +37,21 @@ img {
 }
 .links {
     text-align: right;
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid white;
+    border-width: 2px;
+    width: 310px;
+    max-width: 70vw;
+    display: block;
+	background: #00000000;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 40px;
+    text-decoration: none;
+}
+.links2 {
+    text-align: center;
     margin-top: 20px;
     padding: 20px;
     border: 1px solid white;
